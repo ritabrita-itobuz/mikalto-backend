@@ -1,0 +1,11 @@
+{
+    "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg",
+    "enjoy": "Enjoy most",
+    "vacation": "nice vacation",
+    "hideaway": "Quiet and dreamy awesome journey",
+    "wellness": "Wellness",
+    "wellnesskey": "Wellness is the key",
+    "singleRoomPicture": "https://www.hotelmonterey.co.jp/upload_file/monhtyo/stay/sng_600_001.jpg",
+    "doubleRoomPicture": "https://www.londonhousehotels.com/wp-content/uploads/2017/11/5.-1-standard-double-MAIN.jpg",
+    "thirdRoomPicture": "https://images.woodenstreet.de/image/cache/data%2Fbed-with-storage%2Fwalken-bed-with-storage%2Fupdated%2Fupdated%2Fwalnut%2F1-750x650.jpg"
+}
