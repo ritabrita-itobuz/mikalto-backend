@@ -7,5 +7,6 @@
     "wellnesskey": "Wellness is the key",
     "singleRoomPicture": "https://www.hotelmonterey.co.jp/upload_file/monhtyo/stay/sng_600_001.jpg",
     "doubleRoomPicture": "https://www.londonhousehotels.com/wp-content/uploads/2017/11/5.-1-standard-double-MAIN.jpg",
-    "thirdRoomPicture": "https://images.woodenstreet.de/image/cache/data%2Fbed-with-storage%2Fwalken-bed-with-storage%2Fupdated%2Fupdated%2Fwalnut%2F1-750x650.jpg"
+    "thirdRoomPicture": "https://images.woodenstreet.de/image/cache/data%2Fbed-with-storage%2Fwalken-bed-with-storage%2Fupdated%2Fupdated%2Fwalnut%2F1-750x650.jpg",
+    "fourthRoomPicture": "https://images.unsplash.com/photo-1560185128-e173042f79dd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cXVlZW4lMjBzaXplJTIwYmVkfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
 }
